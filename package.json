@@ -1,0 +1,23 @@
+{
+  "name": "harshpreet-singh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcorp-nursery/harshpreet-singh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcorp-nursery/harshpreet-singh/issues"
+  },
+  "homepage": "https://github.com/rcorp-nursery/harshpreet-singh#readme"
+}
